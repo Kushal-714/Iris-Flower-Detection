@@ -7,3 +7,5 @@ I performed following task in developing this model:
 -Encode categorical value
 -Split dataset into test & train dataset
 -Performance evaluation
+
+I have uploaded dataset and my jupyter-notebook file for reference.
